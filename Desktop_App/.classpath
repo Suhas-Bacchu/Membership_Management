@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="JarFiles1/rs2xml.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-examples-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-excelant-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-ooxml-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-ooxml-schemas-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/poi-scratchpad-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="JarFiles2/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
